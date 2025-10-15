@@ -10,4 +10,4 @@
 
 ## Reporting Security Vulnerabilities
 
-To report suspected security vulnerabilities, please [submit a report via our advisory portal](https://advisory.splunk.com/report). Our security team will review your submission and respond promptly. If an issue is confirmed, we will develop and release a patch as quickly as possible—typically within a few days, depending on complexity.
+To report suspected security vulnerabilities, please [submit a report via our advisory portal](https://advisory.splunk.com/report). Our security team will review your submission and respond promptly.
